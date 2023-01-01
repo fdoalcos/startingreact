@@ -1,1 +1,1 @@
-Hi this is the start of learning react and become a better developer.
+Hi this is the start of learning react and become a better developer!
